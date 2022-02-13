@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chúc Em 1 Ngày Valentin Vui Vẻ Và Càng Càng Yêu Anh   😘 .',
     btnAccept: 'Dạ Yêu Anh <3',
-    messLink: 'https://ngytvn.net/index.php?id=wVchcAgZgAV 
+    messLink : 'https://ngytvn.net/index.php?id=dU5vR4wvt6f
 }
